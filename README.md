@@ -1,1 +1,1 @@
-# Deep-Mapping-Algorithm-Papers
+# Deep Mapping Algorithm Papers
